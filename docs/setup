@@ -1,0 +1,13 @@
+download and install NPM from https://nodejs.org
+
+npm install -g @angular/cli
+
+ng version
+
+npm install -g typescript
+
+ng new hello-world-app
+
+cd hello-world-app
+
+src/app/app.component.ts -> enter code here
